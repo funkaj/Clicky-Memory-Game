@@ -1,26 +1,61 @@
-[
-  {
+[{
     "id": 1,
-    "name": "SpongeBob",
-    "image":
-      "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "name": "bob",
+    "image": "/images/bob.png"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image":
-      "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "name": "fischoeder",
+    "image": "/images/fischoeder.png"
   },
   {
     "id": 3,
-    "name": "Squidward",
-    "image":
-      "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "name": "rudy",
+    "image": "/images/rudy.png"
+  },
+  {
+    "id": 4,
+    "name": "gene",
+    "image": "/images/gene.png"
+  },
+  {
+    "id": 5,
+    "name": "jimmy_jr",
+    "image": "/images/jimmy_jr.png"
+  },
+  {
+    "id": 6,
+    "name": "jimmy",
+    "image": "/images/jimmy.png"
+  },
+  {
+    "id": 7,
+    "name": "linda",
+    "image": "/images/linda.png"
+  },
+  {
+    "id": 8,
+    "name": "louise",
+    "image": "/images/louise.png"
+  },
+  {
+    "id": 9,
+    "name": "phillip",
+    "image": "/images/phillip.png"
+  },
+  {
+    "id": 10,
+    "name": "teddy",
+    "image": "/images/teddy.png"
+  },
+  {
+    "id": 11,
+    "name": "tina",
+    "image": "/images/tina.png"
+  },
+  {
+    "id": 12,
+    "name": "zeek",
+    "image": "/images/zeek.png"
   }
 ]
