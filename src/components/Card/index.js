@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function FriendCard(props) {
+function Card(props) {
   return (
     <div className="card">
       <div className="img-container" data-id={props.id}>
@@ -11,4 +11,4 @@ function FriendCard(props) {
   );
 }
 
-export default FriendCard;
+export default Card;

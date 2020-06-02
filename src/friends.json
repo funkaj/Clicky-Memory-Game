@@ -1,61 +1,73 @@
 [{
     "id": 1,
     "name": "bob",
-    "image": "/images/bob.png"
+    "image": "/images/bob.png",
+    "isClicked": false
   },
   {
     "id": 2,
     "name": "fischoeder",
-    "image": "/images/fischoeder.png"
+    "image": "/images/fischoeder.png",
+    "isClicked": false
   },
   {
     "id": 3,
     "name": "rudy",
-    "image": "/images/rudy.png"
+    "image": "/images/rudy.png",
+    "isClicked": false
   },
   {
     "id": 4,
     "name": "gene",
-    "image": "/images/gene.png"
+    "image": "/images/gene.png",
+    "isClicked": false
   },
   {
     "id": 5,
     "name": "jimmy_jr",
-    "image": "/images/jimmy_jr.png"
+    "image": "/images/jimmy_jr.png",
+    "isClicked": false
   },
   {
     "id": 6,
     "name": "jimmy",
-    "image": "/images/jimmy.png"
+    "image": "/images/jimmy.png",
+    "isClicked": false
   },
   {
     "id": 7,
     "name": "linda",
-    "image": "/images/linda.png"
+    "image": "/images/linda.png",
+    "isClicked": false
   },
   {
     "id": 8,
     "name": "louise",
-    "image": "/images/louise.png"
+    "image": "/images/louise.png",
+    "isClicked": false
   },
   {
     "id": 9,
     "name": "phillip",
-    "image": "/images/phillip.png"
+    "image": "/images/phillip.png",
+    "isClicked": false
   },
   {
     "id": 10,
     "name": "teddy",
-    "image": "/images/teddy.png"
+    "image": "/images/teddy.png",
+    "isClicked": false
   },
   {
     "id": 11,
     "name": "tina",
-    "image": "/images/tina.png"
+    "image": "/images/tina.png",
+    "isClicked": false
   },
   {
     "id": 12,
     "name": "zeek",
-    "image": "/images/zeek.png"
+    "image": "/images/zeek.png",
+    "isClicked": false
   }
 ]
