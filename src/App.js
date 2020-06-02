@@ -22,9 +22,6 @@ class App extends Component {
     score: "0"
   };
 
-  
-
-
 
 render() {
   return ( <div class="d-flex justify-content-center">
@@ -41,12 +38,6 @@ render() {
       image={x.image}
     />
     ))}
-    
- 
-  
-
-    
-    
     </Wrapper>
     </div>
   );
