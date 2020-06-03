@@ -1,73 +1,73 @@
 [{
-    "id": 1,
+    "id": 0,
     "name": "bob",
     "image": "/images/bob.png",
-    "isClicked": false
+    "isclicked": "false"
+  },
+  {
+    "id": 1,
+    "name": "fischoeder",
+    "image": "/images/fischoeder.png",
+    "isclicked": "false"
   },
   {
     "id": 2,
-    "name": "fischoeder",
-    "image": "/images/fischoeder.png",
-    "isClicked": false
+    "name": "rudy",
+    "image": "/images/rudy.png",
+    "isclicked": "false"
   },
   {
     "id": 3,
-    "name": "rudy",
-    "image": "/images/rudy.png",
-    "isClicked": false
+    "name": "gene",
+    "image": "/images/gene.png",
+    "isclicked": "false"
   },
   {
     "id": 4,
-    "name": "gene",
-    "image": "/images/gene.png",
-    "isClicked": false
+    "name": "jimmy_jr",
+    "image": "/images/jimmy_jr.png",
+    "isclicked": "false"
   },
   {
     "id": 5,
-    "name": "jimmy_jr",
-    "image": "/images/jimmy_jr.png",
-    "isClicked": false
+    "name": "jimmy",
+    "image": "/images/jimmy.png",
+    "isclicked": "false"
   },
   {
     "id": 6,
-    "name": "jimmy",
-    "image": "/images/jimmy.png",
-    "isClicked": false
+    "name": "linda",
+    "image": "/images/linda.png",
+    "isclicked": "false"
   },
   {
     "id": 7,
-    "name": "linda",
-    "image": "/images/linda.png",
-    "isClicked": false
+    "name": "louise",
+    "image": "/images/louise.png",
+    "isclicked": "false"
   },
   {
     "id": 8,
-    "name": "louise",
-    "image": "/images/louise.png",
-    "isClicked": false
+    "name": "phillip",
+    "image": "/images/phillip.png",
+    "isclicked": "false"
   },
   {
     "id": 9,
-    "name": "phillip",
-    "image": "/images/phillip.png",
-    "isClicked": false
+    "name": "teddy",
+    "image": "/images/teddy.png",
+    "isclicked": "false"
   },
   {
     "id": 10,
-    "name": "teddy",
-    "image": "/images/teddy.png",
-    "isClicked": false
+    "name": "tina",
+    "image": "/images/tina.png",
+    "isclicked": "false"
   },
   {
     "id": 11,
-    "name": "tina",
-    "image": "/images/tina.png",
-    "isClicked": false
-  },
-  {
-    "id": 12,
     "name": "zeek",
     "image": "/images/zeek.png",
-    "isClicked": false
+    "isclicked": "false"
   }
 ]

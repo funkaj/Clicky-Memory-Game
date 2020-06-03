@@ -4,8 +4,8 @@ import "./style.css";
 function Card(props) {
   return (
     <div className="card">
-      <div className="img-container" data-id={props.id}>
-        <img alt={`${props.name} from bobs burgers`} src={props.image} />
+      <div className="img-container">
+        <img id={props.id} isclicked="test" onClick={props.onClick} alt={`${props.name} from bobs burgers`} src={props.image} />
       </div>
     </div>
   );
