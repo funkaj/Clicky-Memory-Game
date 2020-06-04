@@ -49,10 +49,7 @@ class App extends Component {
         score: 0
       });
       shuffle(charArr);
-    } 
-    
-    
-    else{
+    } else{
       charArr[index].isclicked = "true";
       this.setState({
         score: this.state.score + 1
@@ -61,7 +58,6 @@ class App extends Component {
     }
    };
   
-
 
 render() {
   return ( <div className="d-flex justify-content-center">
