@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Clicky-Memory-Game/static/css/main.edfe0b6c.chunk.css",
+    "main.js": "/Clicky-Memory-Game/static/js/main.dd9fd091.chunk.js",
+    "main.js.map": "/Clicky-Memory-Game/static/js/main.dd9fd091.chunk.js.map",
+    "runtime-main.js": "/Clicky-Memory-Game/static/js/runtime-main.ea6b19a8.js",
+    "runtime-main.js.map": "/Clicky-Memory-Game/static/js/runtime-main.ea6b19a8.js.map",
+    "static/js/2.d7921de6.chunk.js": "/Clicky-Memory-Game/static/js/2.d7921de6.chunk.js",
+    "static/js/2.d7921de6.chunk.js.map": "/Clicky-Memory-Game/static/js/2.d7921de6.chunk.js.map",
+    "index.html": "/Clicky-Memory-Game/index.html",
+    "precache-manifest.1c841e15d9af7fefd2e17217ef8c76ba.js": "/Clicky-Memory-Game/precache-manifest.1c841e15d9af7fefd2e17217ef8c76ba.js",
+    "service-worker.js": "/Clicky-Memory-Game/service-worker.js",
+    "static/css/main.edfe0b6c.chunk.css.map": "/Clicky-Memory-Game/static/css/main.edfe0b6c.chunk.css.map",
+    "static/js/2.d7921de6.chunk.js.LICENSE.txt": "/Clicky-Memory-Game/static/js/2.d7921de6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea6b19a8.js",
+    "static/js/2.d7921de6.chunk.js",
+    "static/css/main.edfe0b6c.chunk.css",
+    "static/js/main.dd9fd091.chunk.js"
+  ]
+}
